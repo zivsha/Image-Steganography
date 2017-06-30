@@ -10,8 +10,7 @@ A WinForm application for hiding text messages in images, and extracting message
 ![Alt text](/Screenshots/Encoding.PNG?raw=true "Encoding")
 
 ## Processing
-Well Actually this is some fake processing to have an affect of looking reliable (since the actual time to encode\decode the image takes a few hunderd ticks)
-![Alt text](/Screenshots/Processing.PNG?raw=true "Processing")
+Well Actually this is some fake processing to have an affect of looking reliable, since the actual time to encode or decode the image takes a few hunderd ticks ![Alt text](/Screenshots/Processing.PNG?raw=true "Processing")
 
 ## Decoding
 ![Alt text](/Screenshots/Decoding.PNG?raw=true "Decoding")
